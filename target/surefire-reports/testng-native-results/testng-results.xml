@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="797" started-at="2020-04-19T12:37:30 IST" finished-at="2020-04-19T12:37:30 IST">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="797" started-at="2020-04-19T12:37:30 IST" finished-at="2020-04-19T12:37:30 IST">
+      <class name="com.rahulshettyacademy.SeleniumTest">
+        <test-method status="PASS" signature="BrowserAutomation()[pri:0, instance:com.rahulshettyacademy.SeleniumTest@1e3c938]" name="BrowserAutomation" duration-ms="0" started-at="2020-04-19T12:37:30 IST" finished-at="2020-04-19T12:37:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BrowserAutomation -->
+        <test-method status="PASS" signature="elementsUI()[pri:0, instance:com.rahulshettyacademy.SeleniumTest@1e3c938]" name="elementsUI" duration-ms="1" started-at="2020-04-19T12:37:30 IST" finished-at="2020-04-19T12:37:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementsUI -->
+      </class> <!-- com.rahulshettyacademy.SeleniumTest -->
+      <class name="com.rahulshettyacademy.AppiumTest">
+        <test-method status="PASS" signature="iosApps()[pri:0, instance:com.rahulshettyacademy.AppiumTest@c03f1f]" name="iosApps" duration-ms="64" started-at="2020-04-19T12:37:30 IST" finished-at="2020-04-19T12:37:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iosApps -->
+        <test-method status="PASS" signature="nativeAppAndroid()[pri:0, instance:com.rahulshettyacademy.AppiumTest@c03f1f]" name="nativeAppAndroid" duration-ms="23" started-at="2020-04-19T12:37:30 IST" finished-at="2020-04-19T12:37:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- nativeAppAndroid -->
+      </class> <!-- com.rahulshettyacademy.AppiumTest -->
+      <class name="com.rahulshettyacademy.RESTAPITest">
+        <test-method status="PASS" signature="deleteTwitter()[pri:0, instance:com.rahulshettyacademy.RESTAPITest@c0a365]" name="deleteTwitter" duration-ms="0" started-at="2020-04-19T12:37:30 IST" finished-at="2020-04-19T12:37:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteTwitter -->
+        <test-method status="PASS" signature="postJira()[pri:0, instance:com.rahulshettyacademy.RESTAPITest@c0a365]" name="postJira" duration-ms="1" started-at="2020-04-19T12:37:30 IST" finished-at="2020-04-19T12:37:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- postJira -->
+      </class> <!-- com.rahulshettyacademy.RESTAPITest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
